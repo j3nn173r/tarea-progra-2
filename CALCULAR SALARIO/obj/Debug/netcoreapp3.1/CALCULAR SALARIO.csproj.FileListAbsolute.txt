@@ -1,0 +1,3 @@
+C:\Users\mita\Desktop\CALCULAR SALARIO\obj\Debug\netcoreapp3.1\CALCULAR SALARIO.AssemblyInfoInputs.cache
+C:\Users\mita\Desktop\CALCULAR SALARIO\obj\Debug\netcoreapp3.1\CALCULAR SALARIO.AssemblyInfo.cs
+C:\Users\mita\Desktop\CALCULAR SALARIO\obj\Debug\netcoreapp3.1\CALCULAR SALARIO.csproj.CoreCompileInputs.cache

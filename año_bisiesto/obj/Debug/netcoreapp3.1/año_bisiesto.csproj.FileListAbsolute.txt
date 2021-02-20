@@ -1,0 +1,13 @@
+C:\Users\mita\Desktop\año_bisiesto\bin\Debug\netcoreapp3.1\año_bisiesto.exe
+C:\Users\mita\Desktop\año_bisiesto\bin\Debug\netcoreapp3.1\año_bisiesto.deps.json
+C:\Users\mita\Desktop\año_bisiesto\bin\Debug\netcoreapp3.1\año_bisiesto.runtimeconfig.json
+C:\Users\mita\Desktop\año_bisiesto\bin\Debug\netcoreapp3.1\año_bisiesto.runtimeconfig.dev.json
+C:\Users\mita\Desktop\año_bisiesto\bin\Debug\netcoreapp3.1\año_bisiesto.dll
+C:\Users\mita\Desktop\año_bisiesto\bin\Debug\netcoreapp3.1\año_bisiesto.pdb
+C:\Users\mita\Desktop\año_bisiesto\obj\Debug\netcoreapp3.1\año_bisiesto.csprojAssemblyReference.cache
+C:\Users\mita\Desktop\año_bisiesto\obj\Debug\netcoreapp3.1\año_bisiesto.AssemblyInfoInputs.cache
+C:\Users\mita\Desktop\año_bisiesto\obj\Debug\netcoreapp3.1\año_bisiesto.AssemblyInfo.cs
+C:\Users\mita\Desktop\año_bisiesto\obj\Debug\netcoreapp3.1\año_bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\mita\Desktop\año_bisiesto\obj\Debug\netcoreapp3.1\año_bisiesto.dll
+C:\Users\mita\Desktop\año_bisiesto\obj\Debug\netcoreapp3.1\año_bisiesto.pdb
+C:\Users\mita\Desktop\año_bisiesto\obj\Debug\netcoreapp3.1\año_bisiesto.genruntimeconfig.cache

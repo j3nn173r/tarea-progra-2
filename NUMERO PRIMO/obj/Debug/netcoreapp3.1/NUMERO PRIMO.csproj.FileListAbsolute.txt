@@ -1,0 +1,12 @@
+C:\Users\mita\Desktop\NUMERO PRIMO\bin\Debug\netcoreapp3.1\NUMERO PRIMO.exe
+C:\Users\mita\Desktop\NUMERO PRIMO\bin\Debug\netcoreapp3.1\NUMERO PRIMO.deps.json
+C:\Users\mita\Desktop\NUMERO PRIMO\bin\Debug\netcoreapp3.1\NUMERO PRIMO.runtimeconfig.json
+C:\Users\mita\Desktop\NUMERO PRIMO\bin\Debug\netcoreapp3.1\NUMERO PRIMO.runtimeconfig.dev.json
+C:\Users\mita\Desktop\NUMERO PRIMO\bin\Debug\netcoreapp3.1\NUMERO PRIMO.dll
+C:\Users\mita\Desktop\NUMERO PRIMO\bin\Debug\netcoreapp3.1\NUMERO PRIMO.pdb
+C:\Users\mita\Desktop\NUMERO PRIMO\obj\Debug\netcoreapp3.1\NUMERO PRIMO.AssemblyInfoInputs.cache
+C:\Users\mita\Desktop\NUMERO PRIMO\obj\Debug\netcoreapp3.1\NUMERO PRIMO.AssemblyInfo.cs
+C:\Users\mita\Desktop\NUMERO PRIMO\obj\Debug\netcoreapp3.1\NUMERO PRIMO.csproj.CoreCompileInputs.cache
+C:\Users\mita\Desktop\NUMERO PRIMO\obj\Debug\netcoreapp3.1\NUMERO PRIMO.dll
+C:\Users\mita\Desktop\NUMERO PRIMO\obj\Debug\netcoreapp3.1\NUMERO PRIMO.pdb
+C:\Users\mita\Desktop\NUMERO PRIMO\obj\Debug\netcoreapp3.1\NUMERO PRIMO.genruntimeconfig.cache
